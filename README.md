@@ -318,9 +318,9 @@ Deployment URLs will be added after hosting is completed.
 
 | Component | URL |
 |---|---|
-| Live Dashboard | To be added |
-| FastAPI Backend | To be added |
-| API Documentation | To be added |
+| Live Dashboard | https://earthre-sla-monitoring-dashboard-fr.vercel.app/ |
+| FastAPI Backend | https://sla-monitoring-backend.onrender.com |
+| API Documentation | https://sla-monitoring-backend.onrender.com/docs |
 | GitHub Repository | https://github.com/Het1124/EarthRe-SLA-Monitoring-Dashboard |
 | AWS Lambda API | https://s9vfxqb606.execute-api.ap-southeast-2.amazonaws.com/prod |
 
